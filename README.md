@@ -2,7 +2,7 @@
 
 🧑‍🎓 Graduado em Análise e Desenvolvimento de Sistemas <br>
 👨‍💻 Trabalho com a linguagem PHP desenvolvendo aplicações monolíticas utilizando Laravel <br>
-📖 Estudando padrões de projetos, afim de implementar soluções mais adequadas a cada tarefa 
+📖 Estudando padrões de projetos, arquitetura de micro serviços, afim de implementar soluções mais adequadas a cada tarefa 
 
 <div>
   <a href="https://github.com/salathiel-serra">
