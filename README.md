@@ -1,4 +1,4 @@
-### Olá, eu sou o Salathiel Serra 👋
+### Olá, eu sou o Salathiel Serra ✌🏽
 
 🧑‍🎓 Graduado em Análise e Desenvolvimento de Sistemas <br>
 👨‍💻 Trabalho com a linguagem PHP desenvolvendo aplicações monolíticas utilizando Laravel <br>
