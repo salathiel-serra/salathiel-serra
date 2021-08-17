@@ -1,13 +1,13 @@
-### Olá, eu sou o Salathiel Serra ✌🏽
+### Hi, I'm Salathiel Serra ✌🏽
 
-🧑‍🎓 Graduado em Análise e Desenvolvimento de Sistemas <br>
-👨‍💻 Trabalho com a linguagem PHP desenvolvendo aplicações monolíticas utilizando Laravel <br>
-📖 Estudando padrões de projetos, arquitetura de micro serviços, afim de implementar soluções mais adequadas a cada tarefa 
+🧑‍🎓 Graduated in Systems Analysis and Development <br>
+👨‍💻   I work with the PHP language developing monolithic applications using Laravel <br>
+📖   Studying design patterns, microservice architecture, in order to implement the most adequate solutions for each task
 
 <div>
   <a href="https://github.com/salathiel-serra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salathiel-serra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salathiel-serra&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salathiel-serra&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salathiel-serra&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
 
 <div style="display: inline_block"><br>
