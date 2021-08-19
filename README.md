@@ -8,9 +8,9 @@
 </div>
 
 ##### About me
-🧑‍🎓   I have a degree in Systems Analysis and Development <br>
-👨‍💻   I work with the PHP language developing monolithic applications using Laravel <br>
-📖   I'm studying CakePHP Framework and Angular JS
+🧑‍🎓  I am a Systems Analysis and Development graduate <br>
+👨‍💻   I work with the programming language PHP developing monolithic applications with Laravel <br>
+📖   I'm currently studying the CakePHP framework
 
 ##### My Skills and Experiences
 <div style="display: inline_block; margin-top:1px !important;">
