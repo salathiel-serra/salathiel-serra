@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/salathiel-serra">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=salathiel-serra&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=salathiel-serra&show_icons=true&theme=ayu-mirage&include_all_commits=false&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salathiel-serra&layout=compact&langs_count=7&theme=ayu-mirage"/>
   </a>
 </div>
@@ -21,6 +21,7 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript">
   <img align="center" alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS">
+  <img align="center" alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" title="Jquery">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" title="My SQL">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL">
