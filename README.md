@@ -9,8 +9,8 @@
 
 ##### About me
 🧑‍🎓  I am a Systems Analysis and Development graduate <br>
-👨‍💻   I work with the programming language PHP developing monolithic applications with Laravel <br>
-📖   I'm currently studying microservices architecture with PHP/Laravel and Vue.js
+👨‍💻  I work with the programming language PHP developing monolithic applications with Laravel <br>
+📖  I'm currently studying microservices architecture with PHP/Laravel and Vue.js
 
 ##### My Skills and Experiences
 <div style="display: inline_block; margin-top:1px !important;">
